@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1496360353 source:c:\users\arek\desktop\obliczanie\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<math.h>
+
+1496399025 source:c:\users\arek\desktop\obliczanie\projekt\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<math.h>
+
+1504440082 source:c:\users\arek\desktop\obliczanie wyra¿eñ arytmetycznych\projekt\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<math.h>
+
